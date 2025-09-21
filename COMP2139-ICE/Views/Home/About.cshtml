@@ -1,11 +1,16 @@
 @using System.Security.Cryptography
 @{
     ViewData["Title"] = "About";
+    var studentName = "Sofia Janik";
+    var studentNumber = "";
+    var courseCode = "COMP2139";
+    var courseSection = "101573681";
 }
 <h1>@ViewData["Title"]</h1>
-<pre>
-1. Student Name : Sofia Janik
-2. Student Number : 101573681
-3. Course Code : COMP2139
-4. Course Section : 8:00am
-</pre>
+<div>
+    <h1>Welcome to the About Page</h1>
+    <p>Student Name: @studentName</p>
+    <p>Student Number: @studentNumber</p>
+    <p>Course Code: @courseCode</p>
+    <p>Course Section: @courseSection</p>
+</div>

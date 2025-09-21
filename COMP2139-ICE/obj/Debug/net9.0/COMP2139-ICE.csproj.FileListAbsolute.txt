@@ -94,3 +94,4 @@ C:\Users\Sofia\OneDrive\Desktop\Programming related\College stuff\Semester 3\COM
 C:\Users\Sofia\OneDrive\Desktop\Programming related\College stuff\Semester 3\COMP2139 Web application dev\Labs\lab1\COMP2139\COMP2139-ICE\COMP2139-ICE\obj\Debug\net9.0\COMP2139-ICE.pdb
 C:\Users\Sofia\OneDrive\Desktop\Programming related\College stuff\Semester 3\COMP2139 Web application dev\Labs\lab1\COMP2139\COMP2139-ICE\COMP2139-ICE\obj\Debug\net9.0\COMP2139-ICE.genruntimeconfig.cache
 C:\Users\Sofia\OneDrive\Desktop\Programming related\College stuff\Semester 3\COMP2139 Web application dev\Labs\lab1\COMP2139\COMP2139-ICE\COMP2139-ICE\obj\Debug\net9.0\ref\COMP2139-ICE.dll
+C:\Users\Sofia\OneDrive\Desktop\Programming related\College stuff\Semester 3\COMP2139 Web application dev\Labs\lab1\COMP2139\COMP2139-ICE\COMP2139-ICE\obj\Debug\net9.0\COMP2139-ICE.sourcelink.json
