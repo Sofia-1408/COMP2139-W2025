@@ -3,9 +3,9 @@
 @model List<Project>
 
 @{
-
     ViewData["Title"] = "Projects";
-
+    bool searchPerformed = ViewData["SearchPerformed"] as bool? ?? false;
+    string searchString = ViewData["SearchString"] as string;
 }
 
 
@@ -48,5 +48,12 @@
 }
 else
 {
-<p>No projects available.</p>
+    @if (searchPerformed)
+    {
+        <p>No project names with name "@searchString" were found</p>
+    }
+    else
+    {
+        <p>No projects available.</p>
+    }
 }

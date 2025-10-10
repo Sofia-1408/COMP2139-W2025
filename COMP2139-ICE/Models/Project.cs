@@ -73,4 +73,7 @@ public class Project
     /// </summary>
 
     public string? Status { get; set; } 
+    
+    //Week6
+    public List<ProjectTask>? Tasks { get; set; } = new();
 }
