@@ -1,10 +1,11 @@
+using COMP2139_ICE.Areas.ProjectManagement.Models;
 using COMP2139_ICE.Data;
-using COMP2139_ICE.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace COMP2139_ICE.Controllers;
-[Route("Project")]
+namespace COMP2139_ICE.Areas.ProjectManagement.Controllers;
+[Area("ProjectManagement")]
+[Route("[area]/[controller]/[action]")]
 public class ProjectController : Controller
 {
     //.Add

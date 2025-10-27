@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sofia\\OneDrive\\Desktop\\Programming related\\College stuff\\Semester 3\\COMP2139 Web application dev\\Labs\\lab1\\COMP2139\\COMP2139-ICE\\COMP2139-ICE\\COMP2139-ICE.csproj": {}
+    "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sofia\\OneDrive\\Desktop\\Programming related\\College stuff\\Semester 3\\COMP2139 Web application dev\\Labs\\lab1\\COMP2139\\COMP2139-ICE\\COMP2139-ICE\\COMP2139-ICE.csproj": {
+    "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sofia\\OneDrive\\Desktop\\Programming related\\College stuff\\Semester 3\\COMP2139 Web application dev\\Labs\\lab1\\COMP2139\\COMP2139-ICE\\COMP2139-ICE\\COMP2139-ICE.csproj",
+        "projectUniqueName": "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj",
         "projectName": "COMP2139-ICE",
-        "projectPath": "C:\\Users\\Sofia\\OneDrive\\Desktop\\Programming related\\College stuff\\Semester 3\\COMP2139 Web application dev\\Labs\\lab1\\COMP2139\\COMP2139-ICE\\COMP2139-ICE\\COMP2139-ICE.csproj",
-        "packagesPath": "C:\\Users\\Sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sofia\\OneDrive\\Desktop\\Programming related\\College stuff\\Semester 3\\COMP2139 Web application dev\\Labs\\lab1\\COMP2139\\COMP2139-ICE\\COMP2139-ICE\\obj\\",
+        "projectPath": "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj",
+        "packagesPath": "C:\\Users\\janik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\janik\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Sofia\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
