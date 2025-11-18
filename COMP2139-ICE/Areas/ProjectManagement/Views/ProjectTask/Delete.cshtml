@@ -35,7 +35,7 @@
 </div>
 
 <!-- Form to confirm deletion -->
-<form asp-action="DeleteConfirmed" asp-route-id="@Model.ProjectId" method="post">
+<form asp-action="DeleteConfirmed" asp-route-projectTaskId="@Model.ProjectId" method="post">
     @Html.AntiForgeryToken()
     @Html.HiddenFor(model => model.ProjectTaskId)
     <input type="submit" value="Delete" class="btn btn-danger"/>

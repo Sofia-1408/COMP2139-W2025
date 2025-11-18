@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj": {}
+    "C:\\Users\\janik\\OneDrive\\Desktop\\College related\\COMP2139 C# L\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj": {
+    "C:\\Users\\janik\\OneDrive\\Desktop\\College related\\COMP2139 C# L\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj",
+        "projectUniqueName": "C:\\Users\\janik\\OneDrive\\Desktop\\College related\\COMP2139 C# L\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj",
         "projectName": "COMP2139-ICE",
-        "projectPath": "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj",
+        "projectPath": "C:\\Users\\janik\\OneDrive\\Desktop\\College related\\COMP2139 C# L\\COMP2139-W2025\\COMP2139-ICE\\COMP2139-ICE.csproj",
         "packagesPath": "C:\\Users\\janik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janik\\RiderProjects\\COMP2139-W2025\\COMP2139-ICE\\obj\\",
+        "outputPath": "C:\\Users\\janik\\OneDrive\\Desktop\\College related\\COMP2139 C# L\\COMP2139-W2025\\COMP2139-ICE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janik\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,7 +46,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -60,11 +60,11 @@
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.0.1, )"
             }
           },
           "imports": [
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
